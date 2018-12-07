@@ -4,6 +4,7 @@
 
 def list = ["Groovy", "Java", "Ruby"]
 
+// it is default parameter
 list.each {
     println it
 }
